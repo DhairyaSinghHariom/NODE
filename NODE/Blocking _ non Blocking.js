@@ -14,6 +14,7 @@ console.log(result);
 console.log("7");
 
 console.log("2");
+
 // // Non-blocking
 
 const Result = fs.readFile("contacts.txt", "utf-8", (err, Result) => {
